@@ -1,4 +1,4 @@
 # Hola mundo
-´NICOLAS GARCIA BUSTOS´
-ingenieria en sistemas
-Ucompensar
+## ´NICOLAS GARCIA BUSTOS´
+### ingenieria en sistemas
+#### Ucompensar
