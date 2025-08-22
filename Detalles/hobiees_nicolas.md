@@ -1,4 +1,4 @@
 ## hobbies 
-*entrenar
-*trabajar
-*salir
+* entrenar
+* trabajar
+* salir
